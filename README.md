@@ -9,3 +9,4 @@ How to run:<br>
 
 Guest automatically verifies host's key fingerprint, but not vice versa. It needs to be done manually.
 
+Live demo: https://chat.cagriari.com/
