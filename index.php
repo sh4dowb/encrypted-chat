@@ -3,9 +3,9 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta name="keywords" content="pastebin proxy, pastebinp, 0pastebin">
-	<meta name="description" content="Pastebin proxy to bypass censorship">
-	<title>Pastebin Proxy</title>
+	<meta name="keywords" content="secure chat, encrypted chat, crypt chat">
+	<meta name="description" content="Private, end-to-end encrypted, non-logging chat">
+	<title>Encrypted Chat</title>
 </head>
 <body>
 	<div>
